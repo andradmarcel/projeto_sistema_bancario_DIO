@@ -1,0 +1,5 @@
+# Arquivos de Bytecode e otimização do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
