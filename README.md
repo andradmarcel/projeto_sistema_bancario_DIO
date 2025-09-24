@@ -1,7 +1,6 @@
 
 # Desafio de Projeto: Criando um Sistema Bancário com Python
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Static Badge](https://img.shields.io/badge/Status-Complete-Green)
 
 
