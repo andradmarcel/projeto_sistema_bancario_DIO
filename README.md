@@ -1,8 +1,4 @@
 
-# Título do Projeto
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
 # Desafio de Projeto: Criando um Sistema Bancário com Python
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
